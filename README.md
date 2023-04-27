@@ -1,7 +1,7 @@
 ### Hi there 👋
  <img src="https://dl.dropboxusercontent.com/s/110axfscx8e9q3q/Screenshot%202023-04-27%20024351.png" alt="logo" width=""  height="" />
-<!--
-**geekelo/geekelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **geekelo/geekelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,21 +12,19 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+- ⚡ Fun fact: ... -->
 <h1 align="center">Hi 👋, I'm Eloghene Otiede</h1>
 <h3 align="center">A passionate Software Engineer and Full Stack Web developer</h3>
 
 - 🔭 I’m currently working on [training females & kids on Front End Web Developemnt and Python respectively](https://femalesintech.us.to)
 
-- 🌱 I’m currently learning **C programming language**
+- 🌱 I’m currently learning **C programming language** 
 
-- 👨‍💻 All of my projects are available at [https://geekelo.xyz](https://geekelo.xyz)
+- 📄 Find my portfolio and proffesional experience [on LinkedIn](https://www.linkedin.com/in/eloghene-otiede/)
+
+- 👨‍💻 My portfolio / personal website at [https://geekelo.xyz](https://geekelo.xyz)
 
 - 📫 How to reach me **efuelight12@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/eloghene-otiede-b146a3232/](https://www.linkedin.com/in/eloghene-otiede-b146a3232/)
 
 - ⚡ Fun fact **I am sincere, like to network and give value**
 
@@ -40,7 +38,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/https://linkedin.com/eloghene-otiede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/eloghene-otiede" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@geekelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@geekelo" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@efuelight12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@efuelight12" height="30" width="40" /></a>
-<a href="/https://geekelo.xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://geekelo.xyz" height="30" width="40" /></a>
+<a href="https://geekelo.xyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://geekelo.xyz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
