@@ -14,7 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <h1 align="center">Hi 👋, I'm Eloghene Otiede</h1>
-<h3 align="center">A passionate Software Engineer and Full Stack Web developer</h3>
+<h3 align="">A passionate Software Engineer and Full Stack Web developer</h3>
+<p>Hello, I'm Eloghene Otiede, a result-oriented software engineer and full-stack developer with over three years of experience designing and developing responsive and functional web applications.
+I am driven by client satisfaction and delivering exceptional projects. I constantly strive for continuous improvement and aim to add significant value to any organization I join.
+
+I began my journey as an intern at Eloti Designs, where I acquired valuable tech and software development skills like Shell Scripting, C Programming, JavaScript, React, Node, PHP, and more. My impressive performance in executing projects, demonstrating industry-standard practices, and mentoring junior interns led to my employment.
+
+So far, I have successfully designed and developed over 52 websites -  including e-commerce, business, portfolio, landing pages, informational and institutional websites - showcasing my expertise in product conceptualization, backend skills, knowledge of data structures, algorithms, problem-solving, and time management. 
+
+Additionally, I have undergone advanced training at institutions like ALX Africa and Microverse. They are remote software development programs that use pair programming and project building to teach development.
+Having worked remotely and collaboratively across different time zones, I am well-versed in asynchronous communication.
+</p>
 
 - 🔭 I’m currently working on [training females & kids on Front End Web Developemnt and Python respectively](https://femalesintech.us.to)
 
