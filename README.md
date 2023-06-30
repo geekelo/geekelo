@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 <h1 align="left">Hi 👋, I'm Eloghene Otiede</h1>
-<h3 align="">A passionate Software Engineer and Full Stack Web developer</h3>
+<h3 align="">🔥A passionate Software Engineer and Full Stack Web developer 🔥</h3> 
 <p>Hello, I'm Eloghene Otiede, a result-oriented software engineer and full-stack developer with over three years of experience designing and developing responsive and functional web applications.
 I am driven by client satisfaction and delivering exceptional projects. I constantly strive for continuous improvement and aim to add significant value to any organization I join.
 
@@ -45,8 +45,8 @@ Having worked remotely and collaboratively across different time zones, I am wel
 
 - ⚡ Fun fact **I am sincere, like to network, and give value**
 
-# Tech Skill
-<table cellspacing: 90 style="border-radius: 5;">
+# Tech Skills
+<table style="border-radius: 5;">
 <tr class="row">
   <td class="column">
     <img src="https://dl.dropboxusercontent.com/s/0ot4z08wckhsp2m/Purple%20and%20Yellow%20Minimalist%20Social%20Media%20Marketing%20Expert%20Instagram%20Post%20%289%29.png"  width="300">
