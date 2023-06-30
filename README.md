@@ -30,7 +30,7 @@ Having worked remotely and collaboratively across different time zones, I am wel
 <span><img src="https://dl.dropboxusercontent.com/s/l65fgnilq01fbq5/turing-logo.png" width="100"></span>
 <span><img src="https://dl.dropboxusercontent.com/s/11ozz9d8jmqvxdv/hackerrank-logo.png" width="100"></span>
 <span><img src="https://dl.dropboxusercontent.com/s/0gkourlkr7igmjj/301141307_443420951137305_3219365308897154219_n.png" width="40"></span>
-
+<span><img src="https://dl.dropboxusercontent.com/s/ysn9lwdzcxjc8r6/alx.jpg" width="40"></span>
 
 # Quick Links
 - 🔭 I’m currently working on [training females & kids on Front End Web Developemnt and Python respectively](https://femalesintech.us.to)
