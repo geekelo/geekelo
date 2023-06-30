@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-<h1 align="center">Hi 👋, I'm Eloghene Otiede</h1>
+<h1 align="left">Hi 👋, I'm Eloghene Otiede</h1>
 <h3 align="">A passionate Software Engineer and Full Stack Web developer</h3>
 <p>Hello, I'm Eloghene Otiede, a result-oriented software engineer and full-stack developer with over three years of experience designing and developing responsive and functional web applications.
 I am driven by client satisfaction and delivering exceptional projects. I constantly strive for continuous improvement and aim to add significant value to any organization I join.
@@ -34,13 +34,66 @@ Having worked remotely and collaboratively across different time zones, I am wel
 
 - ⚡ Fun fact **I am sincere, like to network, and give value**
 
-### Tech Stack
-🔸HTML 🔸CSS 🔸JAVASCRIPT 🔸ES6 🔸REACT 🔸PYTHON 🔸C Programming 🔸Node 🔸Express 🔸Ruby On Rails
+# Tech Skill
+<table cellspacing: 90 style="border-radius: 5;">
+<tr class="row">
+  <td class="column">
+    <img src="https://dl.dropboxusercontent.com/s/0ot4z08wckhsp2m/Purple%20and%20Yellow%20Minimalist%20Social%20Media%20Marketing%20Expert%20Instagram%20Post%20%289%29.png"  width="300">
+  </div>
+  <td cellspacing: 90 class="column" style="float: right;">
+    <p> <h2>Tech Stack </h2>
+      <br>
+      🔸HTML
+      <br>
+      🔸CSS
+      <br>
+      🔸JAVASCRIPT
+      <br>
+      🔸ES6
+      <br>
+      🔸REACT
+      <br>
+      🔸PYTHON
+      <br>
+      🔸C Programming
+      <br>
+      🔸Node
+      <br>
+      🔸Express
+      <br>
+      🔸Ruby On Rails
+    </p>
+  </div>
+</div>
+</table>
+
+
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+# Soft Skills
+<table style="border-radius: 5; text-align: right">
+<tr class="row">
+  <td class="column" cellpadding="80">
+    <img src="https://dl.dropboxusercontent.com/s/8j9g6n90xg2fs45/Purple%20and%20Yellow%20Minimalist%20Social%20Media%20Marketing%20Expert%20Instagram%20Post%20%2810%29.png"  width="300">
+  </div>
+  <td class="column">
+    <p> <h2>Soft Skill </h2>
+      <br>
+      🔸Communication 
+      <br>
+      🔸Pair programming
+      <br>
+      🔸Problem-solving
+      <br>
+      🔸Adaptability 
+    </p>
+  </div>
+</div>
+</table>
 
-### Soft Skills
-🔸Communication 🔸Pair programming🔸Problem-solving 🔸Adaptability 🔸Continuous learning
+
+ 
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
