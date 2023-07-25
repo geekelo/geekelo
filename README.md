@@ -39,7 +39,7 @@ Having worked remotely and collaboratively across different time zones, I am wel
 
 - 📄 Find my portfolio and professional experience [on LinkedIn](https://www.linkedin.com/in/eloghene-otiede/)
 
-- 👨‍💻 My portfolio Website and blog at [Geekelo Showroom](https://geekelo.us.to/)
+- 👨‍💻 My portfolio website and blog at [Geekelo Showroom](https://geekelo.us.to/)
 
 - 👌 My Resume [Here](https://docs.google.com/document/d/1k_8h57QSjxCds70-ZPgrJkBgouMexeFV2y-unEYBPNs/edit?usp=sharing)
 
