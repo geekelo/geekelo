@@ -39,7 +39,9 @@ Having worked remotely and collaboratively across different time zones, I am wel
 
 - 📄 Find my portfolio and professional experience [on LinkedIn](https://www.linkedin.com/in/eloghene-otiede/)
 
-- 👨‍💻 My portfolio at [Geekelo Showroom](https://www.linkedin.com/in/eloghene-otiede/recent-activity/articles/)
+- 👨‍💻 My portfolio Website and blog at [Geekelo Showroom](https://geekelo.us.to/)
+
+- 👌 My Resume [Here](https://docs.google.com/document/d/1k_8h57QSjxCds70-ZPgrJkBgouMexeFV2y-unEYBPNs/edit?usp=sharing)
 
 - 📫 How to reach me **efuelight12@gmail.com**
 
@@ -51,7 +53,7 @@ Having worked remotely and collaboratively across different time zones, I am wel
   <td class="column">
     <img src="https://dl.dropboxusercontent.com/s/0ot4z08wckhsp2m/Purple%20and%20Yellow%20Minimalist%20Social%20Media%20Marketing%20Expert%20Instagram%20Post%20%289%29.png"  width="300">
   </div>
-  <td cellspacing: 90 class="column" style="float: right;">
+  <td cellSpacing: 90 class="column" style="float: right;">
     <p> <h2>Tech Stack </h2>
       <br>
       🔸HTML
