@@ -31,8 +31,8 @@ Having worked remotely and collaboratively across different time zones, I am wel
 <span><img src="https://dl.dropboxusercontent.com/s/11ozz9d8jmqvxdv/hackerrank-logo.png" width="100"></span>
 <span><img src="https://dl.dropboxusercontent.com/s/0gkourlkr7igmjj/301141307_443420951137305_3219365308897154219_n.png" width="40"></span>
 <span><img src="https://dl.dropboxusercontent.com/s/ysn9lwdzcxjc8r6/alx.jpg" width="40"></span>
-[![Eloghene's github stats](https://github-readme-stats.vercel.app/api?username=geekelo)](https://github.com/geekelo/github-readme-stats)
-# Tech Skills
+
+# Skills
 <table style="border-radius: 5;">
 <tr class="row">
   <td class="column">
@@ -63,15 +63,6 @@ Having worked remotely and collaboratively across different time zones, I am wel
       🔸Ruby On Rails
     </p>
   </div>
-</div>
-</table>
-
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-# Soft Skills
-<table style="border-radius: 5; text-align: right">
-<tr class="row">
   <td class="column">
       <br>
       🔸Communication 
@@ -86,6 +77,12 @@ Having worked remotely and collaboratively across different time zones, I am wel
 </div>
 </table>
 
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+[![Eloghene's github stats](https://github-readme-stats.vercel.app/api?username=geekelo)](https://github.com/geekelo/github-readme-stats)
 
 # Quick Links
 - 🔭 I’m currently working on [training females & kids on Front End Web Developemnt and Python respectively](https://femalesintech.us.to)
