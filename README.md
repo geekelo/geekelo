@@ -31,31 +31,13 @@ Having worked remotely and collaboratively across different time zones, I am wel
 <span><img src="https://dl.dropboxusercontent.com/s/11ozz9d8jmqvxdv/hackerrank-logo.png" width="100"></span>
 <span><img src="https://dl.dropboxusercontent.com/s/0gkourlkr7igmjj/301141307_443420951137305_3219365308897154219_n.png" width="40"></span>
 <span><img src="https://dl.dropboxusercontent.com/s/ysn9lwdzcxjc8r6/alx.jpg" width="40"></span>
-
-# Quick Links
-- 🔭 I’m currently working on [training females & kids on Front End Web Developemnt and Python respectively](https://femalesintech.us.to)
-
-- 🌱 I’m currently learning **C programming language** 
-
-- 📄 Find my portfolio and professional experience [on LinkedIn](https://www.linkedin.com/in/eloghene-otiede/)
-
-- 👨‍💻 My portfolio website and blog at [Geekelo Showroom](https://geekelo.us.to/)
-
-- 👌 My Resume [Here](https://docs.google.com/document/d/1k_8h57QSjxCds70-ZPgrJkBgouMexeFV2y-unEYBPNs/edit?usp=sharing)
-
-- 📫 How to reach me **efuelight12@gmail.com**
-
-- ⚡ Fun fact **I am sincere, like to network, and give value**
-
+[![Eloghene's github stats](https://github-readme-stats.vercel.app/api?username=geekelo)](https://github.com/geekelo/github-readme-stats)
 # Tech Skills
 <table style="border-radius: 5;">
 <tr class="row">
   <td class="column">
-    <img src="https://dl.dropboxusercontent.com/s/0ot4z08wckhsp2m/Purple%20and%20Yellow%20Minimalist%20Social%20Media%20Marketing%20Expert%20Instagram%20Post%20%289%29.png"  width="300">
-  </div>
-  <td cellSpacing: 90 class="column" style="float: right;">
-    <p> <h2>Tech Stack </h2>
-      <br>
+  <p>
+   <br>
       🔸HTML
       <br>
       🔸CSS
@@ -65,6 +47,10 @@ Having worked remotely and collaboratively across different time zones, I am wel
       🔸ES6
       <br>
       🔸REACT
+  </p>
+  </div>
+  <td cellSpacing: 90 class="column" style="float: right;">
+    <p>
       <br>
       🔸PYTHON
       <br>
@@ -81,17 +67,12 @@ Having worked remotely and collaboratively across different time zones, I am wel
 </table>
 
 
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 # Soft Skills
 <table style="border-radius: 5; text-align: right">
 <tr class="row">
-  <td class="column" cellpadding="80">
-    <img src="https://dl.dropboxusercontent.com/s/8j9g6n90xg2fs45/Purple%20and%20Yellow%20Minimalist%20Social%20Media%20Marketing%20Expert%20Instagram%20Post%20%2810%29.png"  width="300">
-  </div>
   <td class="column">
-    <p> <h2>Soft Skill </h2>
       <br>
       🔸Communication 
       <br>
@@ -104,6 +85,23 @@ Having worked remotely and collaboratively across different time zones, I am wel
   </div>
 </div>
 </table>
+
+
+# Quick Links
+- 🔭 I’m currently working on [training females & kids on Front End Web Developemnt and Python respectively](https://femalesintech.us.to)
+
+- 🌱 I blog using   [on LinkedIn](https://www.linkedin.com/in/eloghene-otiede/) 
+
+- 📄 You'll find all of my professional experience [on LinkedIn](https://www.linkedin.com/in/eloghene-otiede/)
+
+- 👨‍💻 I have my projects documented and presented on my portfolio website [Geekelo Showroom](https://geekelo.us.to/)
+
+- 👌 My Resume [Here](https://docs.google.com/document/d/1k_8h57QSjxCds70-ZPgrJkBgouMexeFV2y-unEYBPNs/edit?usp=sharing)
+
+- 📫 How to reach me **efuelight12@gmail.com**
+
+- ⚡ Fun fact **I am sincere, like to network, and give value**
+
 
 
 
