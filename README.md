@@ -81,9 +81,9 @@ Having worked remotely and collaboratively across different time zones, I am wel
 <!-- BLOG-POST-LIST:END -->
 
 
-[![Eloghene's github stats](https://github-readme-stats.vercel.app/api?username=geekelo)](https://github.com/geekelo/github-readme-stats)
+![Eloghene's github stats](https://github-readme-stats.vercel.app/api?username=geekelo&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=radical)
 
 # Quick Links
 - 👌 My Resume [Here](https://docs.google.com/document/d/1k_8h57QSjxCds70-ZPgrJkBgouMexeFV2y-unEYBPNs/edit?usp=sharing)
