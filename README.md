@@ -22,7 +22,6 @@ Additionally, I have undergone advanced training at institutions like ALX Africa
 Having worked remotely and collaboratively across different time zones, I am well-versed in asynchronous communication.
 </p>
 
-
 # Vetted and Verified by:
 <span><img src="https://dl.dropboxusercontent.com/s/0gkourlkr7igmjj/301141307_443420951137305_3219365308897154219_n.png" width="40"></span>
 <span><img src="https://dl.dropboxusercontent.com/s/l65fgnilq01fbq5/turing-logo.png" width="100"></span>
@@ -106,7 +105,7 @@ Having worked remotely and collaboratively across different time zones, I am wel
 - 📍[Why Do I Think Animations and Transitions are Important?](https://www.linkedin.com/pulse/why-do-i-think-animations-transitions-important-eloghene-otiede)
 - 📍[A Personalized Coffee Session: Empowering Professional Growth and Development](https://www.linkedin.com/pulse/personalized-coffee-session-empowering-professional-growth-otiede)
 
-
+ ![](https://komarev.com/ghpvc/?username=geekelo&color=dc143c)
  
 
 <!-- <h3 align="left">Connect with me:</h3>
