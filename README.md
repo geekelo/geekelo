@@ -83,15 +83,14 @@ Having worked remotely and collaboratively across different time zones, I am wel
 
 
 [![Eloghene's github stats](https://github-readme-stats.vercel.app/api?username=geekelo)](https://github.com/geekelo/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 # Quick Links
-- 🔭 I’m currently working on [training females & kids on Front End Web Developemnt and Python respectively](https://femalesintech.us.to)
-
-- 🌱 I blog using   [on LinkedIn](https://www.linkedin.com/in/eloghene-otiede/) 
+- 🔭 I’m currently working on [training females & kids on Front End Web Development and Python respectively](https://femalesintech.us.to)
 
 - 📄 You'll find all of my professional experience [on LinkedIn](https://www.linkedin.com/in/eloghene-otiede/)
 
-- 👨‍💻 I have my projects documented and presented on my portfolio website [Geekelo Showroom](https://geekelo.us.to/)
+- 👨‍💻 I have my projects documented and presented on [Geekelo Showroom](https://geekelo.us.to/)
 
 - 👌 My Resume [Here](https://docs.google.com/document/d/1k_8h57QSjxCds70-ZPgrJkBgouMexeFV2y-unEYBPNs/edit?usp=sharing)
 
@@ -99,7 +98,13 @@ Having worked remotely and collaboratively across different time zones, I am wel
 
 - ⚡ Fun fact **I am sincere, like to network, and give value**
 
-
+# Articles
+- 📍[5 Effective steps I Use to Conguer Demotivation as a Software Engineer](https://www.linkedin.com/pulse/5-effective-steps-i-use-conquer-demotivation-software-eloghene-otiede-1f)
+- 📍[How Diligence Has Helped Me To Become A Better Software Engineer](https://www.linkedin.com/pulse/how-diligence-has-helped-me-become-better-software-engineer-otiede)
+- 📍[How Pair Programming Has Helped Me Get Better](https://www.linkedin.com/pulse/how-pair-programming-has-heped-me-get-better-eloghene-otiede)
+- 📍[My Experience Giving My First Professional Code Review](https://www.linkedin.com/pulse/my-experience-giving-first-professional-code-review-eloghene-otiede)
+- 📍[Why Do I Think Animations and Transitions are Important?](https://www.linkedin.com/pulse/why-do-i-think-animations-transitions-important-eloghene-otiede)
+- 📍[A Personalized Coffee Session: Empowering Professional Growth and Development](https://www.linkedin.com/pulse/personalized-coffee-session-empowering-professional-growth-otiede)
 
 
  
