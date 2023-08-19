@@ -109,6 +109,20 @@ Having worked remotely and collaboratively across different time zones, I am wel
 - 📍[A Personalized Coffee Session: Empowering Professional Growth and Development](https://www.linkedin.com/pulse/personalized-coffee-session-empowering-professional-growth-otiede)
 
  ![](https://komarev.com/ghpvc/?username=geekelo&color=dc143c)
+
+ > :rocket: Hey Dev,
+Exciting news! I've started a Slack channel where I'll be sharing all my latest project updates, discussing coding challenges, and diving into tech discussions. It's the perfect place for developers like us to connect, collaborate, and grow together.
+Join me and other fellow developers in the conversation. Let's share our insights, learn from each other, and have some meaningful discussions about all things tech.
+Don't miss out! Join our community now: http://tinyurl.com/geekelocommunity
+Looking forward to seeing you there!
+Best,
+Eloghene Otiede (Geekelo)
+
+
+
+
+
+
  
 
 <!-- <h3 align="left">Connect with me:</h3>
