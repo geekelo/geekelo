@@ -81,9 +81,10 @@ Having worked remotely and collaboratively across different time zones, I am wel
 <!-- BLOG-POST-LIST:END -->
 
 
-![Eloghene's github stats](https://github-readme-stats.vercel.app/api?username=geekelo&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=radical)
+[![Eloghene's github stats](https://github-readme-stats.vercel.app/api?username=geekelo&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true)
 
 # Quick Links
 - 👌 My Resume [Here](https://docs.google.com/document/d/1k_8h57QSjxCds70-ZPgrJkBgouMexeFV2y-unEYBPNs/edit?usp=sharing)
@@ -117,6 +118,16 @@ Looking forward to seeing you there!
 Best,
 Eloghene Otiede (Geekelo)
 
+
+# Projects:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=cash-in-out)](https://github.com/geekelo/cash-in-out)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=domins-recipe_app)](https://github.com/geekelo/domins-recipe_app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=crypto-price-rank)](https://github.com/geekelo/crypto-price-rank)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=oti-task-organizer-webapp)](https://github.com/geekelo/oti-task-organizer-webapp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=leaderboard-webapp)](https://github.com/geekelo/leaderboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=awesome-books-webapp)](https://github.com/geekelo/awesome-books-webapp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=bookstore-cms)](https://github.com/geekelo/bookstore-cms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=gft-hackathon-webapp-project)](https://github.com/geekelo/gft-hackathon-webapp-project)
 
 
 
