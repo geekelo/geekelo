@@ -119,7 +119,7 @@ Best,
 Eloghene Otiede (Geekelo)
 
 
-# Projects:
+# Projects Catalogue
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=cash-in-out)](https://github.com/geekelo/cash-in-out)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=domins-recipe_app)](https://github.com/geekelo/domins-recipe_app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=crypto-price-rank)](https://github.com/geekelo/crypto-price-rank)
