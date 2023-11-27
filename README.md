@@ -95,9 +95,9 @@ Having worked remotely and collaboratively across different time zones, I am wel
 
 - 📄 You'll find all of my professional experience [on LinkedIn](https://www.linkedin.com/in/eloghene-otiede/)
 
-- 👨‍💻 I have my projects documented and presented on [Geekelo Showroom](https://geekelo.us.to/)
+- 👨‍💻 I have my projects documented and presented on [Geekelo Showroom](https://geekelo.com.ng/)
 
-- 🔭 I’m currently working on [training females & kids on Front End Web Development and Python respectively](https://femalesintech.us.to)
+- 🔭 I’m currently working on [training females & kids on Front End Web Development and Python respectively](https://femalesintech.com.ng)
 
 
 
@@ -128,8 +128,11 @@ Eloghene Otiede (Geekelo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=awesome-books-webapp)](https://github.com/geekelo/awesome-books-webapp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=bookstore-cms)](https://github.com/geekelo/bookstore-cms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=gft-hackathon-webapp-project)](https://github.com/geekelo/gft-hackathon-webapp-project)
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=bookstore-cms)](https://github.com/geekelo/space-travelers-hub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=space-travelers-hub)](https://github.com/geekelo/space-travelers-hub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=recalc-webapp)](https://github.com/geekelo/recalc-webapp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=losangeles-mountains-website)](https://github.com/geekelo/losangeles-mountains-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=oti-task-organizer-webapp)](https://github.com/geekelo/oti-task-organizer-webapp)
 
 
 
