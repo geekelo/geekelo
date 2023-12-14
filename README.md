@@ -1,5 +1,5 @@
 ### Hi there 👋
- <img src="https://geekelo.com.ng/wp-content/uploads/2023/12/eloghene-signature.gif" alt="logo" width=""  height="" />
+ <img src="https://geekelo.com.ng/wp-content/uploads/2023/12/elogene-signature.gif" alt="logo" width=""  height="" />
 
 <!-- **geekelo/geekelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
