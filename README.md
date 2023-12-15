@@ -1,6 +1,5 @@
 ### Hi there 👋
  <img src="https://geekelo.com.ng/wp-content/uploads/2023/12/elogene-signature.gif" alt="logo" width=""  height="" />
-
 <!-- **geekelo/geekelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -120,6 +119,10 @@ Eloghene Otiede (Geekelo)
 <br>
 
 # Project Catalogue
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=fenaj-schedula)](https://github.com/geekelo/fenaj-schedula)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=fenaj-schedula_api)](https://github.com/geekelo/fenaj-schedula_api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=cash-in-out)](https://github.com/geekelo/cash-in-out)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=domins-recipe_app)](https://github.com/geekelo/domins-recipe_app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=crypto-price-rank)](https://github.com/geekelo/crypto-price-rank)
