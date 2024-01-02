@@ -1,20 +1,11 @@
 ### Hi there 👋
  <img src="https://geekelo.com.ng/wp-content/uploads/2023/12/elogene-signature.gif" alt="logo" width=""  height="" />
-<!-- **geekelo/geekelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-<h1 align="left">Hi 👋, I'm Eloghene Otiede</h1>
+
+# Hi 👋, I'm Eloghene Otiede
 <h3 align="">🔥A passionate Software Engineer and Full Stack Web developer 🔥</h3> 
-<p>Hello, I'm Eloghene Otiede, a result-oriented software engineer and full-stack developer with over three years of experience designing and developing responsive and functional web applications.
+<p>Hello, I'm Eloghene Otiede, a result-oriented software engineer and full-stack developer with over five years of experience designing and developing responsive and functional web applications.
 I am driven by client satisfaction and delivering exceptional projects. I constantly strive for continuous improvement and aim to add significant value to any organization I join.
 
 Additionally, I have undergone advanced training at institutions like ALX Africa and Microverse. They are remote software development programs that use pair programming and project building to teach development.
@@ -80,10 +71,11 @@ Having worked remotely and collaboratively across different time zones, I am wel
 <!-- BLOG-POST-LIST:END -->
 
 
-
 [![Eloghene's github stats](https://github-readme-stats.vercel.app/api?username=geekelo&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true)
+
+
 
 # Quick Links
 - 👌 My Resume [Here](https://docs.google.com/document/d/1k_8h57QSjxCds70-ZPgrJkBgouMexeFV2y-unEYBPNs/edit?usp=sharing)
