@@ -115,6 +115,7 @@ Eloghene Otiede (Geekelo)
 # Project Catalogue
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=spy-search-app)](https://github.com/geekelo/spy-search-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=oilchem-certificate_portal_admin)](https://github.com/geekelo/oilchem-certificate_portal_admin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=oilchem-certificate_portal_api)](https://github.com/geekelo/oilchem-certificate_portal_api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=oilchem-certificate_portal_user)](https://github.com/geekelo/oilchem-certificate_portal_user)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=fenaj-schedula)](https://github.com/geekelo/fenaj-schedula)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekelo&repo=fenaj-schedula_api)](https://github.com/geekelo/fenaj-schedula_api)
